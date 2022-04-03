@@ -1,1 +1,1 @@
-
+In this project there is the shopping record in which it is a self-service shop offering a wide variety of  products, organized into sections. This kind of store is larger and has a wider selections, but is smaller and more limited in the range of merchandise than a hypermarket or big-box market.In whick I have mention my name there as a customer details for payment too. 
